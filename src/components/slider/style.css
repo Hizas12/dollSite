@@ -1,0 +1,15 @@
+.slide {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background-color: #ffffff; /* Цвет фона слайда */
+    border-radius: 10px; /* Закругленные углы */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Тень */
+    transition: transform 0.3s ease; /* Плавный переход */
+}
+
+.slide:hover {
+    transform: scale(1.05); /* Увеличение при наведении */
+}

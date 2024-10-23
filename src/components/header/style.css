@@ -1,0 +1,25 @@
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 40px 0;
+  min-height: 695px;
+  background-color: var(--dark-bg);
+  color: #fff;
+  background-image: url("./245.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+.header__wrapper {
+  padding: 0 15px;
+  max-width: 660px;
+}
+
+.header__title {
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 1.4;
+}

@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.68c59d00.css",
+    "main.js": "/static/js/main.25d6a3b9.js",
+    "static/media/01-big.jpg": "/static/media/01-big.ee62b020f2a60c66146f.jpg",
+    "static/media/06-big.jpg": "/static/media/06-big.71385883c3036531fa19.jpg",
+    "static/media/05-big.jpg": "/static/media/05-big.f2b4fbbe0d45618fbe69.jpg",
+    "static/media/04-big.jpg": "/static/media/04-big.eec7ee72d9f9c99bd02c.jpg",
+    "static/media/03-big.jpg": "/static/media/03-big.2ab3d3c10c4d7538df3e.jpg",
+    "static/media/02-big.jpg": "/static/media/02-big.2b8ad8ad179420f146bd.jpg",
+    "static/media/22.jpg": "/static/media/22.3c79079b953aede1541e.jpg",
+    "static/media/33.jpg": "/static/media/33.cc52c7c81cbaf5b159b3.jpg",
+    "static/media/11.jpg": "/static/media/11.729f778a8b7c62ac81af.jpg",
+    "static/media/55.jpg": "/static/media/55.95ab8d4b654c90cf7c0d.jpg",
+    "static/media/info1.jpg": "/static/media/info1.415074e9abc409583909.jpg",
+    "static/media/44.jpg": "/static/media/44.c1f5db4e8ba0099548aa.jpg",
+    "static/media/info.jpg": "/static/media/info.c44d59a412be4bdfeb29.jpg",
+    "static/media/doll.png": "/static/media/doll.580601e3a028b934f1e8.png",
+    "static/media/01.jpg": "/static/media/01.efe0390acad2b2b240f4.jpg",
+    "static/media/245.jpg": "/static/media/245.88acb9d6ef0c8d7387e7.jpg",
+    "static/media/06.jpg": "/static/media/06.6dab37245df7b4fba174.jpg",
+    "static/media/04.jpg": "/static/media/04.7f1bc3063ee3384f9805.jpg",
+    "static/media/05.jpg": "/static/media/05.3bbb51cc5f320e56901a.jpg",
+    "static/media/02.jpg": "/static/media/02.3f382e1775101ec47a60.jpg",
+    "static/media/03.jpg": "/static/media/03.0bd439b83449190c4736.jpg",
+    "static/media/sun.svg": "/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
+    "static/media/moon.svg": "/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
+    "static/media/vk.svg": "/static/media/vk.4d7dd60e56dd66aa7404e75eb57f29a7.svg",
+    "static/media/telegram.svg": "/static/media/telegram.b0589b5e724dd92cc132ddb6a0e049d9.svg",
+    "index.html": "/index.html",
+    "static/media/youtube.svg": "/static/media/youtube.6806408aa1bf55b7f1aaba51978e649e.svg",
+    "main.68c59d00.css.map": "/static/css/main.68c59d00.css.map",
+    "main.25d6a3b9.js.map": "/static/js/main.25d6a3b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68c59d00.css",
+    "static/js/main.25d6a3b9.js"
+  ]
+}

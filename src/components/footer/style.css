@@ -1,0 +1,33 @@
+.footer {
+  padding: 60px 0 50px;
+  background-color: var(--dark-bg);
+  color: var(--white);
+  margin-top: auto;
+}
+
+.footer__wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  row-gap: 20px;
+}
+
+.social__item {
+  display: flex;
+  column-gap: 10px;
+}
+
+.social__item p {
+  display: flex;
+  font-size: 20px;
+  align-items: center;
+}
+
+.email p {
+  font-size: 20px;
+}
+
+.copi {
+  font-size: 20px;
+}

@@ -1,0 +1,10 @@
+
+.gallery-container {
+    max-width: 800px; /* Максимальная ширина галереи */
+    margin: auto; /* Центрируем галерею */
+}
+
+h1 {
+    text-align: center; /* Центрируем заголовок */
+    margin-bottom: 20px; /* Отступ снизу */
+}
